@@ -2,6 +2,7 @@
 """
 Advanced Real-Time Audio Visualizer
 Features: Multiple viz modes, FFT analysis, beat detection, smooth animations
+Pull request initiated by MenoGPT
 """
 
 import numpy as np
